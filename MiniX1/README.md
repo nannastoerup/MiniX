@@ -1,5 +1,5 @@
 
-Scrennshot of my code and program 
+Screenshot of my program 
 
 ![ScreenShot](https://github.com/nannastoerup/MiniX/blob/master/MiniX1/Model%20only.png) 
 
