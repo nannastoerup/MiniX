@@ -17,3 +17,6 @@ It was definitely a different experience reading and writing code compered to �
 What might be the potential and possibility of coding practice?
 
 The only way to learn coding is to practice and experimenting with different syntaxes. This was from my experience the best way of understanding and learning how to code. I believe that coding can be used as a great visual tool to show of ideas and designs. That’s why I think learning, even if it just the basic, coding is important, because it is such a useful tool in the future. Sometimes it can be hard to describe a design or an idea with words, so it would be nice to know a different way to explain or show of a design. 
+
+
+By Nanna Størup
