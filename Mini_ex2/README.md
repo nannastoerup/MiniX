@@ -4,4 +4,4 @@ Screenshot of my program
 
 UTL to my program:
 https://rawgit.com/nannastoerup/Mini_ex/master/Mini_ex2/empty-example/index.html
-
+(Click on the door and the fire will appear) 
