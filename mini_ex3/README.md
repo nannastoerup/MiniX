@@ -4,3 +4,4 @@ Screenshot
 
 URL to my program: 
 https://rawgit.com/nannastoerup/Mini_ex/master/mini_ex3/empty-example/index.html
+Press the mouse to activate the text on the screen 
