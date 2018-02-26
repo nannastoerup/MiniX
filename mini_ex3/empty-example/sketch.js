@@ -24,8 +24,8 @@ function drawThrobber(num) {
   push();
   translate(width/2, height/2);
 
-  var cir = 360/num*(frameCount%num);
-  rotate(radians(cir));
+  var tri = 360/num*(frameCount%num);
+  rotate(radians(tri));
   noStroke();
   //image(img,30,0,30,30);
   fill('pink');
