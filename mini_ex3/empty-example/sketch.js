@@ -1,9 +1,9 @@
-var img;
+//var img;
 var words = ["please wait","loading","still loading","be patient","don't touch","just wait","not working?","you got a problem?","need help?"];
 var words = random(words);
 
 function preload(){
-  img = loadImage('assets/mouse.png');
+  //img = loadImage('assets/mouse.png');
 
 }
 
