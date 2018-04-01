@@ -27,7 +27,7 @@ genres with different meanings, and make it seem like it belonged together.
 
 This is how to read/understand our code:
 1.	Run the program - with sound
-2.	Find the *narrative.js* file and read it like a dialog between two people. 
+2.	Find the [*narrative.js* file](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/empty-example/narrative.js) and read it like a dialog between two people. 
 
 ## What is the aesthetic aspects of your program in particular to the relationship between code and language?
 
