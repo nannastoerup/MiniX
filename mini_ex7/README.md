@@ -1,6 +1,6 @@
 Screenshot of our program: 
 
-![Screenshot]https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7.png
+![ScreenShot]https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7.png
 
 URL to our program: 
 https://rawgit.com/nannastoerup/Mini_ex/master/mini_ex7/empty-example/index.html
