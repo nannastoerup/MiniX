@@ -1,14 +1,14 @@
-#Mini ex 7 
-###Made by Rasmus and Nanna S
+# Mini ex 7 
+### Made by Rasmus and Nanna S
 
-#Screenshot of our program: 
+# Screenshot of our program: 
 
 ![ScreenShot](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7.png)
 
-#URL to our program: 
+# URL to our program: 
 https://rawgit.com/nannastoerup/Mini_ex/master/mini_ex7/empty-example/index.html
  
-##Program details
+## Program details
 
 We have created a narrative between a couple. It is a tragic materialistic love story between the hopeful Endor and 
 the ungrateful Phin. Phin is obsessed with the thought of the perfect diamond ring and Endor can’t afford to give what 
@@ -29,7 +29,7 @@ This is how to read/understand our code:
 1.	Run the program - with sound
 2.	Find the *narrative.js* file and read it like a dialog between two people. 
 
-##What is the aesthetic aspects of your program in particular to the relationship between code and language?
+## What is the aesthetic aspects of your program in particular to the relationship between code and language?
 
 Human language and computer/code language have multiple similarities and can easily be combined. In both languages 
 the context and correct spelling as a huge factor, this is also mentioned in the text Vocable Code, seen here: *“The 
