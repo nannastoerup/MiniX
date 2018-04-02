@@ -3,7 +3,8 @@
 
 # Screenshot of our program: 
 
-![ScreenShot](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7.png = 100x100) 
+![ScreenShot](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7.png | width=100) 
+
 ![ScreenShot](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex7/Screenshot%20mini_ex7%20code.png = 100x100)
 
 # URL to our program: 
