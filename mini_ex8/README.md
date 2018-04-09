@@ -4,7 +4,7 @@
 ## Url to our program 
 https://rawgit.com/nannastoerup/Mini_ex/master/mini_ex8/empty-example/index.html
 
-## Made by Nanna Størup and Thomas Thomsen 
+### Made by Nanna Størup and Thomas Thomsen 
 
 # Depiction of our program 
 
