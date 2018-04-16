@@ -3,8 +3,9 @@
 ## Flowcharts for previous mini_ex
 
 ### Mini_ex6
-[Link to mini_ex6](https://github.com/nannastoerup/Mini_ex/tree/master/mini_ex6) 
 ![ScreenShot](https://github.com/nannastoerup/Mini_ex/blob/master/mini_ex9/mini_ex6%20flowchart.png)
+
+[Link to mini_ex6](https://github.com/nannastoerup/Mini_ex/tree/master/mini_ex6) 
 
 ### What may be difficult when drawing a flowchart? 
 For me the most difficult part of making a flowchart, is to decide what elements to include. When you have made a program that does a lot of things, you are almost forced to leave out some aspects of the program to make the flowchart understandable. It is also important to think about who you are making the program to. If you are making it to a non-coder, you can’t include coding-language in the flowchart. But if you are making it to a coder, some of the visual things may not be as important, and you should focus more on the code itself. 
